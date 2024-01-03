@@ -5,9 +5,9 @@
     "passes": 5,
     "pending": 0,
     "failures": 0,
-    "start": "2023-12-15T01:18:05.946Z",
-    "end": "2023-12-15T01:18:07.179Z",
-    "duration": 1233
+    "start": "2024-01-03T04:59:50.935Z",
+    "end": "2024-01-03T04:59:51.414Z",
+    "duration": 479
   },
   "tests": [
     {
@@ -27,7 +27,7 @@
     {
       "title": "setBestCustomer",
       "fullTitle": "Fix the Scope setBestCustomer() setBestCustomer",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -66,7 +66,7 @@
     {
       "title": "setBestCustomer",
       "fullTitle": "Fix the Scope setBestCustomer() setBestCustomer",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
